@@ -1,0 +1,2 @@
+me";
+    cin>>name;
